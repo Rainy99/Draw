@@ -1,0 +1,53 @@
+E:\摇奖项目\yaojiang\yaojiang\bin\Debug\yaojiang.exe.config
+E:\摇奖项目\yaojiang\yaojiang\bin\Debug\yaojiang.exe
+E:\摇奖项目\yaojiang\yaojiang\bin\Debug\yaojiang.pdb
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.csprojResolveAssemblyReference.cache
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.Form1.resources
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.Properties.Resources.resources
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.csproj.GenerateResource.Cache
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.exe
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.pdb
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.Form2.resources
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\bin\Debug\yaojiang.exe.config
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.exe
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.pdb
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\bin\Debug\yaojiang.exe
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\bin\Debug\yaojiang.pdb
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.csprojResolveAssemblyReference.cache
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Form1.resources
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Form2.resources
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Properties.Resources.resources
+C:\Users\Mstanford\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\bin\Debug\yaojiang.exe.config
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.exe
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.pdb
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\bin\Debug\yaojiang.exe
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\bin\Debug\yaojiang.pdb
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Form1.resources
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Form2.resources
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\摇奖项目 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\bin\Debug\yaojiang.exe.config
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.exe
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.pdb
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Form1.resources
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Form2.resources
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Properties.Resources.resources
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\bin\Debug\yaojiang.exe
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\bin\Debug\yaojiang.pdb
+C:\Users\Administrator\Desktop\摇奖项目 - 副本 - 副本\yaojiang\yaojiang\obj\Debug\yaojiang.Form3.resources
+E:\摇奖项目答辩\yaojiang\yaojiang\bin\Debug\yaojiang.exe.config
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.exe
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.pdb
+E:\摇奖项目答辩\yaojiang\yaojiang\bin\Debug\yaojiang.exe
+E:\摇奖项目答辩\yaojiang\yaojiang\bin\Debug\yaojiang.pdb
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.csprojResolveAssemblyReference.cache
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.Form1.resources
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.Form2.resources
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.Form3.resources
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.Properties.Resources.resources
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.csproj.GenerateResource.Cache
+E:\摇奖项目答辩\yaojiang\yaojiang\bin\Debug\Aspose.Cells.dll

@@ -1,0 +1,24 @@
+E:\摇奖项目答辩\yaojiang\yaojiang\bin\Debug\yaojiang.exe.config
+E:\摇奖项目答辩\yaojiang\yaojiang\bin\Debug\yaojiang.exe
+E:\摇奖项目答辩\yaojiang\yaojiang\bin\Debug\yaojiang.pdb
+E:\摇奖项目答辩\yaojiang\yaojiang\bin\Debug\Aspose.Cells.dll
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.StartForm.resources
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.LuckyForm.resources
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.WinForm.resources
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.Properties.Resources.resources
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\Lucky Draw.csproj.GenerateResource.Cache
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.exe
+E:\摇奖项目答辩\yaojiang\yaojiang\obj\Debug\yaojiang.pdb
+E:\摇奖项目\yaojiang\yaojiang\bin\Debug\yaojiang.exe.config
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.exe
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.pdb
+E:\摇奖项目\yaojiang\yaojiang\bin\Debug\yaojiang.exe
+E:\摇奖项目\yaojiang\yaojiang\bin\Debug\yaojiang.pdb
+E:\摇奖项目\yaojiang\yaojiang\bin\Debug\Aspose.Cells.dll
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\Lucky Draw.csprojResolveAssemblyReference.cache
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.StartForm.resources
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.LuckyForm.resources
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.WinForm.resources
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\yaojiang.Properties.Resources.resources
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\Lucky Draw.csproj.GenerateResource.Cache
+E:\摇奖项目\yaojiang\yaojiang\obj\Debug\Lucky Draw.csproj.ResolveComReference.cache
